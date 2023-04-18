@@ -8,7 +8,7 @@ Pastry Shop
 * 4/18/2023
 
 ## Links
-https://johmcg.github.io/My-Paistry-Shop/
+https://johmcg.github.io/Pastry-Shop/
 
 ## Images
 
