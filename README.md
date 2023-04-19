@@ -3,18 +3,13 @@
 # John McGee
 Pastry Shop
 
+##Now Based On:
+https://bootstrapmade.com/restaurantly-restaurant-template/
+
 ## Assignment Info:
-* Final Project - Draft
-* 4/18/2023
+* Final Project
+* Updated: 4/19/2023
 
 ## Links
-https://johmcg.github.io/My-Paistry-Shop/
+https://johmcg.github.io/Pastry-Shop/
 
-## Images
-
-
-#### Desktop
-![desktop.png](img%2Fdesktop.png)
-
-#### Mobile
-![mobile.png](img%2Fmobile.png)
