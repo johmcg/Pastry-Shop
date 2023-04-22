@@ -942,6 +942,12 @@ section {
   border: 5px solid rgba(255, 255, 255, 0.2);
 }
 
+.menu-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
 .menu .menu-content {
   margin-left: 85px;
   overflow: hidden;
