@@ -1,0 +1,74 @@
+{
+    "products": [
+    {
+        "item": "Eclair",
+        "price": 3.50,
+        "description": "A French pastry made with choux pastry dough, filled with cream and topped with chocolate icing. Often served as a dessert.",
+        "image": "assets/img/menu/eclair.jpg",
+        "category": "sweets"
+    },
+    {
+        "item": "Cinnamon Roll",
+        "price": 2.75,
+        "description": "A sweet pastry made with cinnamon, sugar, and butter, rolled into a spiral shape and topped with cream cheese frosting. A popular breakfast or brunch item.",
+        "image": "assets/img/menu/cinnamon-roll.jpg",
+        "category": "sweets"
+    },
+    {
+        "item": "Apple Turnover",
+        "price": 3.00,
+        "description": "A pastry filled with cooked apples, cinnamon, and sugar, then baked until golden brown. Often served warm with a scoop of vanilla ice cream.",
+        "image": "assets/img/menu/apple-turnover.jpg",
+        "category": "sweets"
+    },
+    {
+        "item": "Pain au Chocolat",
+        "price": 2.75,
+        "description": "A French pastry made with laminated dough and filled with chocolate. Similar to a croissant, but with a chocolate filling instead of plain butter.",
+        "image": "assets/img/menu/pain-au-chocolat.jpg",
+        "category": "sweets"
+    },
+        {
+        "item": "Croissant",
+        "price": 2.50,
+        "description": "A flaky, buttery pastry that is perfect for breakfast or a mid-day snack. Often served plain or with fillings such as chocolate or almond paste.",
+        "image": "assets/img/menu/croissant.jpg",
+        "category": "breakfast"
+        },
+        {
+        "item": "Coffee",
+        "price": 2.50,
+        "description": "Freshly brewed coffee made from high-quality beans. Served hot or cold.",
+        "image": "assets/img/menu/coffee.jpg",
+        "category": "beverages"
+    },
+    {
+        "item": "Latte",
+        "price": 3.50,
+        "description": "Espresso mixed with steamed milk and a small layer of frothed milk on top. Can be flavored with syrups like vanilla or caramel.",
+        "image": "assets/img/menu/latte.jpg",
+        "category": "beverages"
+    },
+    {
+        "item": "Cappuccino",
+        "price": 3.00,
+        "description": "Espresso mixed with equal parts steamed milk and frothed milk. Often dusted with cocoa powder on top.",
+        "image": "assets/img/menu/cappuccino.jpg",
+        "category": "beverages"
+    },
+    {
+        "item": "Hot Chocolate",
+        "price": 3.50,
+        "description": "A rich, creamy chocolate drink made with milk, cocoa powder, and sugar. Often topped with whipped cream and chocolate shavings.",
+        "image": "assets/img/menu/hot-chocolate.jpg",
+        "category": "beverages"
+    },
+    {
+        "item": "Tea",
+        "price": 2.50,
+        "description": "A hot or cold beverage made from steeped tea leaves. Can be served plain or with milk and sweetener.",
+        "image": "assets/img/menu/tea.jpg",
+        "category": "beverages"
+    }
+]
+}
