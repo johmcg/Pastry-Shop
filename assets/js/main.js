@@ -178,12 +178,11 @@
    * Menu isotope and filter
    */
   window.addEventListener('load', () => {
-
     let menuContainer = select('.menu-container');
     if (menuContainer) {
       let menuIsotope = new Isotope(menuContainer, {
         itemSelector: '.menu-item',
-        layoutMode: 'fitRows'
+        layoutMode: "masonry"
       });
 
       let menuFilters = select('#menu-flters li', true);

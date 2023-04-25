@@ -33,4 +33,21 @@ $.getJSON('assets/json/menu.json', function (data) {
     });
 });
 
+$(document).ready(function () {
+    //Images need to load first otherwise the container is not
+    // displayed correctly this was due to using json to load data in menu section.
+    var $grid = $('.menu-container').imagesLoaded( function() {
+        $grid.masonry({
+            itemSelector: '.menu-item',
+            columnWidth: '.menu-item',
+            percentPosition: true,
+            transitionDuration: '0.3s'
+        });
+    });
+});
 
+$(document).ready(function () {
+$("#orderBtn").click(function (event) {
+    event.preventDefault();
+    $('.email-form').html(`<div class="display-6 ms-3">Your message has been sent. Thank you!</div>`);
+})});
